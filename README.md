@@ -1,28 +1,76 @@
-# Olá! Eu sou André Marcelino
+🧑‍💼 Técnico em Informática para Internet
 
--👨‍💻 Hoje trabalho com Front-End
+**`Desenvolvedor Front-End Back-End`**
 
--📚 Estudando Técnico em Informática para Internet
+Me chamo André Marcelino. Cursando Técnico em Informática para Internet pelo Senac SÃO MIGUEL PAULISTA. Formado pela Fatec Itaquaquecetuba em Gestão da Técnologia da Informação. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube Andre marcelino(https://www.youtube.com/@anddremarcelino3816))
 
 
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<br/>
+<br/>
 <div align="batoom">
-  <a href="https://github.com/Marcelinofatec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelinofatec&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/andre-marcelino-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-marcelino-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelinofatec&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andre-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Andre-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-
-  ##
-<div>  
-  <a href = "mailto:andre.marcelino@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anddre-marcelino-823210221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
